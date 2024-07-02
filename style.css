@@ -1,0 +1,42 @@
+h1{
+    color: green;
+    font-size: 20px;
+}
+.p{
+    color: red;
+}
+.bird{
+    color: tomato;
+    text-decoration: underline;
+    text-align: center;
+    width: 30%;
+    border: 2px solid green;
+}
+.bird:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+
+a{
+    text-decoration: none;
+    display: block;
+    /* margin: 10px; */
+    /* margin: 10px 100px; */
+    /* margin: 10px 200px 50px; */
+    margin: 10px 15px 30px 35px;
+
+}
+a:hover{
+    text-decoration: underline;
+}
+
+button{
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: aliceblue;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 100%;
+}
+
